@@ -1,0 +1,12 @@
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.exe
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.deps.json
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.runtimeconfig.json
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.runtimeconfig.dev.json
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.dll
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.pdb
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.AssemblyInfoInputs.cache
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.AssemblyInfo.cs
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.csproj.CoreCompileInputs.cache
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.dll
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.pdb
+W:\KLAUS\weiterbildung\Provadis\code\c#\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.genruntimeconfig.cache
