@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/AWxQVg6u4DIxtcuTW5CltjlszmqzoYg8GQF05ZH7cFsAXNV5TzwK7yt5on8B9Xi7C3Gy6lvT8vcCAm55RkKWg==",
+  "dgSpecHash": "SpLQvRpwgq8bGbBmDsV8N5QIvlFND8NC07M6Sm8OPXkwYi+1qylp6wjQk1ibOfT6Koo8WBdbxicnMp53lnc9gg==",
   "success": true,
-  "projectFilePath": "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\HalloWelt\\HalloWelt.csproj",
+  "projectFilePath": "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klaus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\klaus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"

@@ -1,0 +1,15 @@
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.exe
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.deps.json
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.json
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.dev.json
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csprojAssemblyReference.cache
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.GenerateResource.cache
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfoInputs.cache
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfo.cs
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+W:\KLAUS\weiterbildung\git\provadis\code\c#\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.genruntimeconfig.cache

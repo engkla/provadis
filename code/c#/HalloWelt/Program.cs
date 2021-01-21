@@ -7,6 +7,13 @@ namespace HalloWelt
     {
         // Methoden
 
+        static void convertAscii(int code)
+        {
+
+            char c = Convert.ToChar(code);
+            Console.WriteLine("Ascii of " + code + "=" + c);
+
+        }
         static void getHandy()
         {
             Handy h = new Handy("NewHandyBrand"); // create a new Handy Object
@@ -51,7 +58,7 @@ namespace HalloWelt
         static void getMaxInteger()
         {
             int myInt; // declaration
-            int a, b, c; // declaration von a,b und c
+            //int a, b, c; // declaration von a,b und c
             long zaehler = 1;
 
             myWriteLine("Bitte warten ...");
@@ -141,6 +148,10 @@ namespace HalloWelt
             showArray();
 
             getHandy();
+
+            convertAscii(65);
+            convertAscii(2);
+
         }
     }
 }

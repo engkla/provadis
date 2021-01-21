@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\HalloWelt\\HalloWelt.csproj": {}
+    "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {}
   },
   "projects": {
-    "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\HalloWelt\\HalloWelt.csproj": {
+    "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\HalloWelt\\HalloWelt.csproj",
-        "projectName": "HalloWelt",
-        "projectPath": "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\HalloWelt\\HalloWelt.csproj",
+        "projectUniqueName": "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "projectName": "WindowsFormsApp1",
+        "projectPath": "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
         "packagesPath": "C:\\Users\\klaus\\.nuget\\packages\\",
-        "outputPath": "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\HalloWelt\\obj\\",
+        "outputPath": "W:\\KLAUS\\weiterbildung\\git\\provadis\\code\\c#\\WindowsFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klaus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,6 +62,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
